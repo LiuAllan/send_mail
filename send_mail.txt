@@ -1,0 +1,19 @@
+import smtplib
+
+def message():
+	smtpObj.sendmail('allan.liu1995@gmail.com', 'allan.liu95@gmail.com', 'Subject: Test \n body message')
+
+def main():
+	smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
+	type(smtpObj)
+	smtpObj.ehlo()
+	smtpObj.starttls()
+	
+	smtpObj.login('allan.liu1995@gmail.com', 'Allanliu1')
+	
+	message()
+	
+	smtpObj.quit()
+
+if __name__ == '__main__':
+	main()

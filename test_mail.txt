@@ -1,0 +1,11 @@
+=LOCATION=
+
+Attention: =TITLE=
+
+Having consulted with my colleagues and based on the
+information gathered from the Nigerian Chambers of Commerce
+and industry, I have the privilege to request for your
+assistance to transfer the sum of =AMOUNT=
+(=AMOUNTSPELLED=) into your accounts.
+We are now ready to transfer =AMOUNT= and that is where
+you, =SUCKER=, come in.
